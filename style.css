@@ -1,0 +1,98 @@
+body{
+    background-color: rgb(114, 47, 47);
+}
+.first{
+    background-color: white;
+    width: 1024px;
+    height: 100px;
+
+}
+
+nav{
+    padding-top: 0px;
+}
+
+nav a{
+    
+    padding: 0px 20px;  
+    color: black;
+}
+
+nav button{
+    color: white;
+}
+
+.tick{
+    background-color: rgb(241, 53, 53);
+    
+}
+
+.second{
+    width: 1024px;
+    height: 150;
+}
+
+.second{
+    display: flex;
+}
+
+.text-content{
+    max-width: 60%;
+    text-align: left;
+    margin-left: 50px;
+}
+
+.second img{
+    color: rgb(241, 90, 90);
+
+}
+
+.text-content h4{
+    color: rgb(226, 159, 147);
+ 
+ }
+
+.text-content h1{
+   color: white;
+
+}
+
+.text-content button{
+    background-color: red;
+    color: white;
+
+}
+
+.second{
+    display: flex;
+    align-items: center;
+    margin-left: 100;
+}
+
+
+.text-content{
+    max-width: 10;  
+
+}
+
+
+.second img{
+    max-width: 30%;
+    margin-left: 250px;
+}
+
+.third{
+    background-color: rgb(245, 61, 132);
+    width: 1024px;
+    height: 50px;
+
+}
+
+
+   
+
+
+
+
+    
+    
